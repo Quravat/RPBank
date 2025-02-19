@@ -48,7 +48,7 @@ The project is **open source**, allowing the community to contribute, improve th
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute it.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You are free to use, modify, and distribute it, **but not for commercial purposes**.
 
 ## Our Discord
 
