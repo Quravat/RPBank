@@ -49,3 +49,7 @@ The project is **open source**, allowing the community to contribute, improve th
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it.
+
+## Our Discord
+
+https://discord.gg/8fkaTbxzgh
