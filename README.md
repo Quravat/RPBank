@@ -35,8 +35,7 @@ The project is **open source**, allowing the community to contribute, improve th
 
 ## Developed By
 
-- **@Walker974**
-- **@Quravat**
+- **No One.**
 
 ## Contributing
 
